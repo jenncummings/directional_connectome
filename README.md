@@ -6,7 +6,10 @@ Both the RM and DK atlases are based on gross anatomical features (gyri and sulc
 ## The pitfall
 CoCoMac data cannot actually be used to infer directionality of connections between brain regions. In order to confirm that a connection is directional, tracers would have to be injected into both source and target regions and the amount of tracer present in both source and target would have to be reliably quantified to deduce a ratio. Furthermore, in the CoCoMac database, information is not reliably available as to whether anterograde or retrograde tracers were used for a given study. Thus, all that can be determined from cocomac data "is whether each connection of interest is present, absent, or unknown" (Blumenfeld et al., 2014). 
 ## References
-Bakker, Rembrandt, Thomas Wachtler, and Markus Diesmann. "CoCoMac 2.0 and the future of tract-tracing databases." Frontiers in neuroinformatics 6 (2012): 30.
-Blumenfeld, Robert S., et al. "CoCoTools: Open-source software for building connectomes using the CoCoMac anatomical database." Journal of cognitive neuroscience 26.4 (2014): 722-745.
-Desikan, Rahul S., et al. "An automated labeling system for subdividing the human cerebral cortex on MRI scans into gyral based regions of interest." Neuroimage 31.3 (2006): 968-980.
+Bakker, Rembrandt, Thomas Wachtler, and Markus Diesmann. "CoCoMac 2.0 and the future of tract-tracing databases." Frontiers in neuroinformatics 6 (2012): 30.  
+
+Blumenfeld, Robert S., et al. "CoCoTools: Open-source software for building connectomes using the CoCoMac anatomical database." Journal of cognitive neuroscience 26.4 (2014): 722-745.  
+
+Desikan, Rahul S., et al. "An automated labeling system for subdividing the human cerebral cortex on MRI scans into gyral based regions of interest." Neuroimage 31.3 (2006): 968-980.  
+
 Kötter, Rolf, and Egon Wanke. "Mapping brains without coordinates." Philosophical Transactions of the Royal Society B: Biological Sciences 360.1456 (2005): 751-766.
