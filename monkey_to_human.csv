@@ -1,0 +1,87 @@
+Human Region,Macaque Equivalent,Macaque Indices
+'ctx-lh-bankssts','TCs',36
+'ctx-lh-caudalanteriorcingulate','CCa',4
+'ctx-lh-caudalmiddlefrontal','FEF',8
+'ctx-lh-cuneus',"'V1,V2,VACd'","[38,39,40]"
+'ctx-lh-entorhinal','PHC',27
+'ctx-lh-fusiform','TCv',37
+'ctx-lh-inferiorparietal',"'PCi,PCip'","[15,16]"
+'ctx-lh-inferiortemporal','TCi',34
+'ctx-lh-isthmuscingulate',"'CCp,CCr'","[5,6]"
+'ctx-lh-lateraloccipital',"'V1,V2,VACv'","[38,39,40]"
+'ctx-lh-lateralorbitofrontal','PFCol',24
+'ctx-lh-lingual',"'V2,VACv'","[39,40]"
+'ctx-lh-medialorbitofrontal',"'PFCpol,PFCom'","[25,24]"
+'ctx-lh-middletemporal','TCc',33
+'ctx-lh-parahippocampal',"'PHC,TCv'","[27,37]"
+'ctx-lh-paracentral','M1',13
+'ctx-lh-parsopercularis','PFCvl',26
+'ctx-lh-parsorbitalis','PFCvl',26
+'ctx-lh-parstriangularis','PFCvl',26
+'ctx-lh-pericalcarine','V1',38
+'ctx-lh-postcentral',"'S1,S2,A1'","[31,32,1]"
+'ctx-lh-posteriorcingulate','CCp',5
+'ctx-lh-precentral',"'M1, PMCv1'","[13,30]"
+'ctx-lh-precuneus',"'PCm, PCd'","[17,14]"
+'ctx-lh-rostralanteriorcingulate',"'CCs,CCa'","[7,4]"
+'ctx-lh-rostralmiddlefrontal','PFCcl',19
+'ctx-lh-superiorfrontal',"'PFCdl, PMCdl,PFCm,PFCdm,PMCm'","[21,28,23,22,29]"
+'ctx-lh-superiorparietal',"'PCs,PCip,PCd'","[18,16,14]"
+'ctx-lh-superiortemporal','TCs',36
+'ctx-lh-supramarginal','PCi',15
+'ctx-lh-frontalpole','PFCpol',25
+'ctx-lh-temporalpole','TCpol',35
+'ctx-lh-transversetemporal',"'A1,A2'","[1,2]"
+'ctx-lh-insula',"'Ip, Ia'","[11,12]"
+'ctx-rh-bankssts','TCs',36
+'ctx-rh-caudalanteriorcingulate','CCa',4
+'ctx-rh-caudalmiddlefrontal','FEF',8
+'ctx-rh-cuneus',"'V1,V2,VACd'","[38,39,40]"
+'ctx-rh-entorhinal','PHC',27
+'ctx-rh-fusiform','TCv',37
+'ctx-rh-inferiorparietal',"'PCi,PCip'","[15,16]"
+'ctx-rh-inferiortemporal','TCi',34
+'ctx-rh-isthmuscingulate',"'CCp,CCr'","[5,6]"
+'ctx-rh-lateraloccipital',"'V1,V2,VACv'","[38,39,40]"
+'ctx-rh-lateralorbitofrontal','PFCol',24
+'ctx-rh-lingual',"'V2,VACv'","[39,40]"
+'ctx-rh-medialorbitofrontal',"'PFCpol,PFCom'","[25,24]"
+'ctx-rh-middletemporal','TCc',33
+'ctx-rh-parahippocampal',"'PHC,TCv'","[27,37]"
+'ctx-rh-paracentral','M1',13
+'ctx-rh-parsopercularis','PFCvl',26
+'ctx-rh-parsorbitalis','PFCvl',26
+'ctx-rh-parstriangularis','PFCvl',26
+'ctx-rh-pericalcarine','V1',38
+'ctx-rh-postcentral',"'S1,S2,A1'","[31,32,1]"
+'ctx-rh-posteriorcingulate','CCp',5
+'ctx-rh-precentral',"'M1, PMCv1'","[13,30]"
+'ctx-rh-precuneus',"'PCm, PCd'","[17,14]"
+'ctx-rh-rostralanteriorcingulate',"'CCs,CCa'","[7,4]"
+'ctx-rh-rostralmiddlefrontal','PFCcl',19
+'ctx-rh-superiorfrontal',"'PFCdl, PMCdl,PFCm,PFCdm,PMCm'","[21,28,23,22,29]"
+'ctx-rh-superiorparietal',"'PCs,PCip,PCd'","[18,16,14]"
+'ctx-rh-superiortemporal','TCs',36
+'ctx-rh-supramarginal','PCi',15
+'ctx-rh-frontalpole','PFCpol',25
+'ctx-rh-temporalpole','TCpol',35
+'ctx-rh-transversetemporal',"'A1,A2'","[1,2]"
+'ctx-rh-insula',"'Ip, Ia'","[11,12]"
+'Left-Cerebellum-Cortex','null',[]
+'Left-Thalamus-Proper','null',[]
+'Left-Caudate','null',[]
+'Left-Putamen','null',[]
+'Left-Pallidum','null',[]
+'Left-Hippocampus','HC',10
+'Left-Amygdala','Amyg',3
+'Left-Accumbens-area','null',[]
+'Left-VentralDC','null',[]
+'Right-Cerebellum-Cortex','null',[]
+'Right-Thalamus-Proper','null',[]
+'Right-Caudate','null',[]
+'Right-Putamen','null',[]
+'Right-Pallidum','null',[]
+'Right-Hippocampus','HC',10
+'Right-Amygdala','Amyg',3
+'Right-Accumbens-area','null',[]
+'Right-VentralDC','null',[]
