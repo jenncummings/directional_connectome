@@ -1,3 +1,4 @@
 # directional_connectome
 ## Introduction
 The idea of this project is to use directional connectome information from tracing studies of the macaque brain to generate a directed version of the human structural connectome. I have created a mapping of human brain regions in the Desikan-Killiany (DK) atlas to analagous regions of the macaque brain in the RM atlas (Kotter and Wanke, 2005) using anatomical and functional similarities derived from literature search.
+The RM atlas is based on gross anatomical features (gyri and sulci), as is the DK atlas. Region mappings were first assessed visually by warping/ aligning the two atlases using analagous anatomical features (see png) and then confirmed if they shared a label in Brodmann's human parcellation (http://cocomac.g-node.org/downloads/regionalmap.pdf)
